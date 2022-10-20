@@ -79,9 +79,15 @@ class NormalVirus:
   
 # special virus
 
-class DecaryVirus:
+class DecayVirus:
  def __init__(self):
  def draw(self):
+
+# special virus 2
+
+class Moving Virus:
+  
+  
   
 # final class for game
 class AgarClone():
