@@ -71,8 +71,18 @@ class Bot:
   def draw(self):
   def mass_decay(self)
  
+# class for virus
 
+class NormalVirus:
+  def __init__(self):
+  def draw(self):
+  
+# special virus
 
+class DecaryVirus:
+ def __init__(self):
+ def draw(self):
+  
 # final class for game
 class AgarClone():
   def __init__(self):
